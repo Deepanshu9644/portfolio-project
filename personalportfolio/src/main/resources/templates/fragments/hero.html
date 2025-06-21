@@ -1,0 +1,86 @@
+<!-- fragments/hero.html -->
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<th:block th:fragment="hero-section">
+    <section class="hero" id="home">
+        <div class="hero-background"></div>
+        <div class="container hero-container">
+            <div class="hero-content">
+                <div class="hero-greeting">Hi, I'm</div>
+                <h1 class="hero-title"><span class="gradient-text">Prashant Baghel</span></h1>
+                <h2 class="hero-subtitle">Full-Stack Developer, Java, Spring Boot & React Enthusiast</h2>
+                <p class="hero-description">
+                    Final-year B.Tech Computer Science student with a strong foundation in software development and a passion for building scalable, secure, and user-centric web applications.
+                </p>
+                <p class="hero-description">
+                    Driven by curiosity and creativity, I love turning real-world challenges into elegant technical solutions.
+                </p>
+                <div class="hero-buttons">
+                    <a href="#projects" class="btn btn-primary">
+                        View My Work <i class="fas fa-arrow-right"></i>
+                    </a>
+                    <a href="#contact" class="btn btn-outline">
+                        Get In Touch
+                    </a>
+                </div>
+                <div class="social-links">
+                    <a href="tel:+917060426377" class="social-link">
+                        <i class="fas fa-phone-alt"></i>
+                    </a>
+                    <a href="mailto:baghelprashant180@gmail.com" class="social-link">
+                        <i class="fas fa-envelope"></i>
+                    </a>
+                    <a href="https://www.linkedin.com/in/iamprashant-baghel/" target="_blank" class="social-link">
+                        <i class="fab fa-linkedin-in"></i>
+                    </a>
+                    <a href="https://github.com/PrashanttBG" target="_blank" class="social-link">
+                        <i class="fab fa-github"></i>
+                    </a>
+                </div>
+            </div>
+            <div class="hero-visual">
+                <div class="hero-visual-inner">
+                    <div class="hero-visual-frame">
+                        <img src="/images/Prashant_photo.jpg" alt="Profile" style="width: 90%; height: 90%; object-fit: cover; border-radius: 15px;">
+                    </div>
+                    <div class="hero-visual-frame"></div>
+                    <div class="hero-visual-frame"></div>
+                </div>
+<!--                <div class="hero-stats stats-1">-->
+<!--                    <div class="hero-stats-icon">-->
+<!--                        <i class="fas fa-code"></i>-->
+<!--                    </div>-->
+<!--                    <div class="hero-stats-text">-->
+<!--                        <div class="hero-stats-label">Developer</div>-->
+<!--                        <div class="hero-stats-value">IBM</div>-->
+<!--                    </div>-->
+<!--                </div>-->
+<!--                <div class="hero-stats stats-2">-->
+<!--                    <div class="hero-stats-icon">-->
+<!--                        <i class="fa-solid fa-chalkboard-user"></i>-->
+<!--                    </div>-->
+<!--                    <div class="hero-stats-text">-->
+<!--                        <div class="hero-stats-label">Mentor</div>-->
+<!--                        <div class="hero-stats-value">Topmate</div>-->
+<!--                    </div>-->
+<!--                </div>-->
+<!--                <div class="hero-stats stats-3">-->
+<!--                    <div class="hero-stats-icon">-->
+<!--                        <i class="fa-solid fa-video"></i>-->
+<!--                    </div>-->
+<!--                    <div class="hero-stats-text">-->
+<!--                        <div class="hero-stats-label">Content Creator</div>-->
+<!--                        <div class="hero-stats-value">Youtube/Udemy</div>-->
+<!--                    </div>-->
+<!--                </div>-->
+            </div>
+        </div>
+        <div class="scroll-indicator">
+            <span>Scroll Down</span>
+            <div class="scroll-indicator-line">
+                <div class="scroll-indicator-dot"></div>
+            </div>
+        </div>
+    </section>
+</th:block>
+</html>
