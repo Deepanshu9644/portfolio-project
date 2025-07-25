@@ -1,6 +1,6 @@
-# 🌐 Personal Portfolio Website
+ 🌐 Personal Portfolio Website
 
-Hi! I'm **Prashant Baghel**, and this is my personal developer portfolio website — a place where I showcase my projects, skills, achievements, and background.
+Hi! I'm **Deepanshu Kumar**, and this is my personal developer portfolio website — a place where I showcase my projects, skills, achievements, and background.
 
 > **Developer by Passion, Engineer by Precision.**
 
@@ -31,7 +31,7 @@ Hi! I'm **Prashant Baghel**, and this is my personal developer portfolio website
 
 ## 📸 Preview
 
-![Screenshot 2025-06-21 163014](https://github.com/user-attachments/assets/9a08a642-a0b3-42ef-8735-4ccbb82a6008)
+![c:\Users\dpali\OneDrive\Pictures\Screenshots\Portfolio.png.png](https://github.com/user-attachments/assets/9a08a642-a0b3-42ef-8735-4ccbb82a6008)
 
 
 
