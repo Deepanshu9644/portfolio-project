@@ -31,7 +31,6 @@ Hi! I'm **Deepanshu Kumar**, and this is my personal developer portfolio website
 
 ## 📸 Preview
 
-![c:\Users\dpali\OneDrive\Pictures\Screenshots\Portfolio.png.png](https://github.com/user-attachments/assets/9a08a642-a0b3-42ef-8735-4ccbb82a6008)
-
+![Website Preview](images/portfolio.png)
 
 
