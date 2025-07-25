@@ -31,6 +31,6 @@ Hi! I'm **Deepanshu Kumar**, and this is my personal developer portfolio website
 
 ## 📸 Preview
 
-![Website Preview](src/main/resources/static/images/Portfolio.png)
+![Website Preview](personalportfolio/src/main/resources/static/images/Portfolio.png)
 
 
